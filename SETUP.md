@@ -12,8 +12,8 @@
 
 1. **Clone the repository:**
 \`\`\`bash
-git clone https://github.com/your-repo/fside-pro.git
-cd fside-pro
+git clone https://https://github.com/SIRI-bit-tech/FSIDE.git
+cd FSIDE
 \`\`\`
 
 2. **Install frontend dependencies:**

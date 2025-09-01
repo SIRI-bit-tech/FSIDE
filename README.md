@@ -47,8 +47,8 @@ FSIDE Pro is an AI-powered orchestration platform that synergizes React and Djan
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/your-org/fside-pro.git
-   cd fside-pro
+   git clone https://github.com/SIRI-bit-tech/FSIDE.git
+   cd FSIDE
    \`\`\`
 
 2. **Set up environment variables**
@@ -225,9 +225,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🆘 Support
 
 - Documentation: [docs.fside.pro](https://docs.fside.pro)
-- Issues: [GitHub Issues](https://github.com/your-org/fside-pro/issues)
+- Issues: [GitHub Issues](https://https://github.com/SIRI-bit-tech/FSIDE/issues)
 - Community: [Discord](https://discord.gg/fside-pro)
-- Email: support@fside.pro
+- Email: onovwionaemuesiri@gmail.com
 
 ## 🙏 Acknowledgments
 

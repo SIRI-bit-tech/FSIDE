@@ -67,7 +67,7 @@ export default function DocsPage() {
                   <h3 className="text-xl font-semibold mb-2 text-[#39ff14]">Quick Setup</h3>
                   <div className="bg-black/30 rounded-lg p-4 space-y-2">
                     <div>
-                      <code className="text-[#39ff14]">git clone https://github.com/your-repo/fside-pro.git</code>
+                      <code className="text-[#39ff14]">git clone https://github.com/SIRI-bit-tech/FSIDE.git</code>
                     </div>
                     <div>
                       <code className="text-[#39ff14]">cd fside-pro</code>

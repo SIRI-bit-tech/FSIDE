@@ -353,7 +353,7 @@ export default function FSIDEProLanding() {
               <a href="/docs" className="hover:text-primary transition-colors">
                 Documentation
               </a>
-              <a href="#" className="hover:text-primary transition-colors" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/SIRI-bit-tech/FSIDE" className="hover:text-primary transition-colors" target="_blank" rel="noopener noreferrer">
                 GitHub
               </a>
               <a href="/admin/auth" className="hover:text-primary transition-colors">
